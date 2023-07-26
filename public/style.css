@@ -37,3 +37,21 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+section {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+section img {
+    display: block;
+    max-width: 100%;
+    margin-top: 10px;
+}
